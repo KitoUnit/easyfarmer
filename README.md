@@ -11,6 +11,8 @@
 ### 2、下载
 https://github.com/KitoUnit/easyfarmer/releases/tag/V1.0
 
+由于激活补丁存在，有些杀毒软件会乱报，点击信任即可
+
 ### 3、支持
 UDST:0xdAC17F958D2ee523a2206206994597C13D831ec7
 
